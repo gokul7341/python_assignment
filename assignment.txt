@@ -1,0 +1,191 @@
+1.How does AI differ from traditional programming?
+   
+  In traditional programming a human developer provides the rules and the data to the computer to get answer.
+  In AI the human provides the data and the answer to the computer and the computer generates the rules.
+  Traditional programming tells computers what to do.
+  AI teaches computers how to figure it out.
+
+2.What are some real-world applications of AI? 
+   
+   Voice assistants (Siri, Alexa, Google Assistant)
+   Face and object recognition
+   Personalized learning: Adapts lessons to each student’s pace and style.
+   Self-driving and driver-assist systems: Lane keeping, adaptive cruise control, automatic braking.
+   Virtual health assistants
+
+3.Explain the difference between Narrow AI, General AI and Super AI.
+ 
+  Narrow AI : Narrow AI is a branch of artificial intelligence that is specialized in performing a 
+  single task or a limited set of tasks with high efficiency and accuracy. This is also known as 
+  Weak AI, refers to artificial intelligence systems that are designed and trained to perform one 
+  specific task or a limited range of tasks extremely well. These systems are “narrow” because 
+  their intelligence is confined to a particular area, they cannot perform tasks outside the field they 
+  were built for.  
+   
+  General AI : General AI, also known as Artificial General Intelligence (AGI), is a form of 
+  artificial intelligence that can perform any intellectual task just like a human. Unlike Narrow AI, 
+  which is restricted to specific functions such as speech recognition or facial detection, General 
+  AI aims to replicate human-like reasoning, problem-solving, learning, creativity, and 
+  adaptability. It can transfer knowledge from one domain to another, similar to how humans apply 
+  skills learned in one area to different situations. However, AGI is still theoretical and has not yet 
+  been achieved. Developing it would require major breakthroughs in neuroscience, cognitive 
+  science, and machine learning. In essence, General AI represents the ultimate goal of creating 
+  machines with human-level intelligence and flexibility across all domains
+   
+  Super AI : Super Artificial Intelligence (Super AI) is a hypothetical stage of AI development 
+  where machines surpass human intelligence in every possible way. Unlike Narrow AI, which is 
+  task-specific, and General AI, which matches human-level intelligence, Super AI would 
+  outperform humans in reasoning, creativity, decision-making, emotional understanding, and 
+  social interactions. It would have the ability to learn autonomously, understand complex 
+  concepts, and apply knowledge across any domain—science, medicine, or art—without human 
+  input. Super AI may even develop self-awareness, emotions, and independent goals. Although it 
+  does not exist yet, its potential could revolutionize the world by solving major global challenges 
+  and creating unimaginable technologies. However, it also raises serious ethical and safety 
+  concerns regarding control, regulation, and alignment with human values.
+
+4.Explain how Super AI could potentially surpass human intelligence. 
+
+  Humans: neurons fire ~200 times per second
+  Computers: billions–trillions of operations per second
+  Store and recall all human knowledge
+  
+5.What ethical concerns are associated with Super AI? 
+ 
+  DATA privacy 
+  
+6.What is Reactive Machine AI? Give examples. 
+
+  Reactive Machine AI is the most basic type of artificial intelligence. It does not have memory, 
+  cannot learn from past experiences, and only reacts to the current situation based on
+  predefined rules or patterns.
+  
+7.Explain the concept of Theory of Mind AI.
+
+  Theory of Mind AI refers to a hypothetical or emerging class of AI systems designed to understand and model the mental states of others—such as beliefs, 
+  intentions, emotions, and desires—and use that understanding to guide their interactions.
+
+8.How does Limited Memory AI differ from Reactive AI? 
+  
+  Reactive AI: Responds only to current input and has no memory or learning.
+  Limited Memory AI: Uses past data or experiences to make better decisions.
+
+9.How does Machine Learning relate to Artificial Intelligence? 
+
+  Machine Learning is a subset of Artificial Intelligence that enables machines to learn from data and improve their performance 
+  without being explicitly programmed.
+
+10.Give examples of Machine Learning applications in daily life.
+
+   Voice assistants understand and respond to spoken commands.
+   Smartphones use face recognition to unlock devices.
+   Netflix and YouTube recommend content you may like.
+   Social media shows posts based on your interests.
+
+11.What is the difference between training and testing data?
+
+   Training data is used to teach the model.
+   Testing data is used to check how well the model works on new, unseen data.
+
+12.Which learning method is best suited for labeled data? 
+
+   Supervised learning is best suited for labeled data.
+
+13.Compare Supervised and Unsupervised Learning.
+
+   Supervised Learning
+
+ Uses labeled data
+ Learns from input–output pairs
+ Used for prediction and classification
+
+  Unsupervised Learning
+
+ Uses unlabeled data
+ Finds hidden patterns or groups
+ Used for clustering and data exploration
+
+14.Explain the difference between classification and regression. 
+
+    Classification
+  Predicts categories or class
+  
+    Regression
+Predicts numerical values
+
+15.What is overfitting in supervised learning? 
+ 
+  Overfitting is when a model learns the training data too well, including noise, and performs poorly on new data.
+
+16.How does unsupervised learning differ from supervised learning?
+
+  Supervised learning:
+  Uses labeled data to learn input → output relationships 
+
+  Unsupervised learning:
+  Uses unlabeled data to find patterns or structure 
+
+17.What is dimensionality reduction? 
+
+   Dimensionality reduction is the process of reducing the number of features in a dataset while keeping the most important information.
+
+18.How does reinforcement learning differ from supervised learning?
+
+   Reinforcement learning:
+   An agent learns by interacting with an environment and getting rewards or penalties.
+
+   Supervised learning:
+   Learns from labeled data with correct answers provided.
+
+19. Explain the concept of “reward” in RL
+
+   In reinforcement learning, a reward is a numerical feedback signal that tells the agent how good or bad an action was,
+   guiding it to learn better behavior  over time.
+
+20.What are some challenges in unsupervised learning? 
+
+   Some challenges in unsupervised learning include lack of labels, difficulty evaluating results, choosing the right number of patterns or clusters,
+   and   interpreting discovered structures.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
